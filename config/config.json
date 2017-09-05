@@ -1,0 +1,23 @@
+{
+  "development": {
+    "username": "Ian",
+    "password": null,
+    "database": "todos-2",
+    "host": "127.0.0.1",
+    "dialect": "postgres"
+  },
+  "test": {
+    "username": "Ian",
+    "password": null,
+    "database": "Todolist",
+    "host": "127.0.0.1",
+    "dialect": "postgres"
+  },
+  "production": {
+    "username": "Ian",
+    "password": null,
+    "database": "Todolist",
+    "host": "127.0.0.1",
+    "dialect": "postgres"
+  }
+}
